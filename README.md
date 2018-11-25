@@ -1,3 +1,7 @@
+This is a tutorial by Maximilian Schwarzmuller on the fundamental concepts of React. Good stuff. Always good to go back to the basics especially as React has evolved over past few years. Built off of Create React App, we ejected to gain access to CSS modules.
+
+
+## Create React App Info
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
